@@ -1,0 +1,6 @@
+# Ignorar arquivos de build e IDE
+bin/
+.settings/
+.classpath
+.project
+*.class
